@@ -3,13 +3,14 @@
 <html>
     <head>
       <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="author" href="humans.txt" />
         <link rel="stylesheet" type="text/css" href="./dist/css/main.css">
        <title>ahenrikson0582 Welcome</title>
     </head>
     <header>
       <span class="logo">My WebSite</span>
+      <a id="toggleMenu">Menu<a>
     <nav>
         <ul>
           <li><a href="index.html">Home</a></li>
@@ -36,5 +37,21 @@
     </ul>
     <h2>Summary</h2>
     <p>In summation...</p>
+    <script>
+
+      var toggleMenu = document.getElementById('toggleMenu');
+      var nav = document.querySelector('nav');
+      toggleMenu.addEventListener(
+        'click',
+        function(){
+          if(nav.style.display=='block'){
+            nav.style.display='none';
+          }else{
+            nav.style.display='block';
+          }
+        }
+      );
+    </script>
+
     </body>
 </html>
