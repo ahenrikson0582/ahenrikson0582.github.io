@@ -1,0 +1,14 @@
+/* TEAM */
+Your title: Abby Henrikson.
+Site: apeskind999@gmail.com, https://formspree.io/f/xbjqpayo.
+Twitter: your Twitter username.
+Location: Carpentersville, United States.
+
+/* THANKS */
+Name: Abby Henrikson or url
+
+/* SITE */
+Last update: 2021/08/22
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: Software used for the development
