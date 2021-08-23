@@ -1,2 +1,5 @@
 Contact: mailto:apeskind999@gmail.com
-Expires: 2021-08-26T00:33:00.000Z
+Expires: 2021-10-23T14:50:00.000Z
+Preferred-Languages: en
+Canonical: https://ahenrikson0582.github.io/
+
